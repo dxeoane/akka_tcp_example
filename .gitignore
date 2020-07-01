@@ -1,0 +1,12 @@
+logs
+project/project
+target/
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+files/
+*.sc
+*.log
